@@ -159,7 +159,7 @@ To declare a parameter, just declare a field in your class, and add to it the `@
 String name;
 
 @Param (defaultValue = "2000")
-int delay = 2000;
+int delay;
 ```
 
 >Kotlin
